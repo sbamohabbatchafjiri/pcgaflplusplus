@@ -8,7 +8,7 @@ Repository:
 [https://github.com/AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus)
 
 AFL++ is maintained by:
-
+* The Permuted congruential generator is integrated By Sadegh Bamohabbat Chafjiri <schafjiri@umail.ggu.edu>
 * Marc "van Hauser" Heuse <mh@mh-sec.de>
 * Dominik Maier <mail@dmnk.co>
 * Andrea Fioraldi <andreafioraldi@gmail.com>
@@ -18,7 +18,7 @@ AFL++ is maintained by:
 
 Originally developed by Michal "lcamtuf" Zalewski.
 
-The Permuted congruential generator is integrated By Sadegh.
+
 
 ## Contact
 For further questions or to discuss/support the idea of cryptographic-inspred mutation, please email me at [schafjiri@umail.ggu.edu](mailto:schafjiri@umail.ggu.edu).
